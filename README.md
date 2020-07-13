@@ -11,7 +11,7 @@
 </a>
 
 <a href= "https://www.facebook.com/yassine.karouani">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJTVcB0LV7hJNBA_fQIPna1G5TIrsXexaNgQ&usqp=CAU" style="width:1em;margin-right:.5em;" width="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/600px-Facebook_icon.svg.png" style="width:1em;margin-right:.5em;" width="50px"/>
 
 </a>
 <a href="https://api.whatsapp.com/send?phone=+212610837957&text=From Github" target="_blank">
