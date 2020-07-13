@@ -1,11 +1,13 @@
 ![image](https://github.com/karouani/karouani/blob/master/icon/dino.gif)
 
-**Hey there 👋,**
 
-I'm a Full stack developer (Web, Mobile), Java / JEE / PHP.
+## * * ** * ***Hey there 👋,**
+
+*I'm a Full stack developer (Web, Mobile), Java / JEE / PHP.*
 
 
-**Infos**
+
+## **Infos**
 
 
 - JEE architecture and design patterns: servlet, JSP, MVC2 model, EJBs, JDBC, CAD Pattern, ORM.
@@ -30,11 +32,10 @@ I'm a Full stack developer (Web, Mobile), Java / JEE / PHP.
 - Operating systems: UNIX, Linux (Centos, Debian), Windows, Mac os x.
 - Information system: project management, production management.
 - Methods of analysis and development: Agil methods (Scrum, ITIL), Audit, Quality .. Various: numerical analysis, RO, data analysis, data-mining, image processing.
-
 <p align="center">
   
 <a itemprop="sameAs" content="https://orcid.org/0000-0001-6396-2010" href="https://orcid.org/0000-0001-6396-2010" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;">
-  <img src="https://github.com/karouani/karouani/blob/master/icon/orcid" width="50px" alt="ORCID iD icon">
+  <img src="https://github.com/karouani/karouani/blob/master/icon/orcid.png" width="50px" alt="ORCID iD icon">
 </a>
 
 <a href= "https://www.linkedin.com/in/yassine-karouani-95444138/">
