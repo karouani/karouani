@@ -1,7 +1,7 @@
 ![image](https://github.com/karouani/karouani/blob/master/icon/dino.gif)
 
 
-## * * ** * ***Hey there 👋,**
+## **Hey there 👋,**
 
 *I'm a Full stack developer (Web, Mobile), Java / JEE / PHP.*
 
