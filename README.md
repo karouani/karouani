@@ -128,7 +128,7 @@ Research work with **Spark**, **Hadoop**, large-scale analytics
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Snake animation" />
 
 ###
 
